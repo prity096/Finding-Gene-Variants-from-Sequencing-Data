@@ -1,5 +1,6 @@
 # Finding-Gene-Variants-from-Sequencing-Data
 Bioinformatics, Python
+
 Finding gene variants is important in many areas of biology, including evolution and disease 
 research.  
 In this project, we focus on identifying gene variants from large batches of sequenced data. 
